@@ -6,7 +6,7 @@ The source for this practice is: [freecodecamp.org YouTube Channel](https://www.
 
 **Tool**: Jupyter Notebook
 
-It is covering the following topics:
+It is covering the following **topics**:
 
 - [x] Variables and Operators in Python
 - [x] Booleans an Comparisons in Python
