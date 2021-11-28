@@ -12,7 +12,7 @@ It is covering the following **topics**:
 - [x] Booleans an Comparisons in Python
 - [x] Other Useful Python Functions
 - [x] Control Flow in Python
-- [ ] Functions in Python
+- [x] Functions in Python
 - [ ] Modules in Python
 - [ ] Strings in Python
 - [ ] Other important Python Data Structures:
