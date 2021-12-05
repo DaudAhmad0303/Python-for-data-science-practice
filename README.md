@@ -13,7 +13,7 @@ It is covering the following **topics**:
 - [x] Other Useful Python Functions
 - [x] Control Flow in Python
 - [x] Functions in Python
-- [ ] Modules in Python
+- [x] Modules in Python
 - [ ] Strings in Python
 - [ ] Other important Python Data Structures:
   - [ ] Lists
