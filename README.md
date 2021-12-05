@@ -14,7 +14,7 @@ It is covering the following **topics**:
 - [x] Control Flow in Python
 - [x] Functions in Python
 - [x] Modules in Python
-- [ ] Strings in Python
+- [x] Strings in Python
 - [ ] Other important Python Data Structures:
   - [ ] Lists
   - [ ] Tuples
