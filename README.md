@@ -14,7 +14,7 @@ It is covering the following **topics**:
 - [x] Control Flow in Python
 - [x] Functions in Python
 - [x] Modules in Python
-- [x] Strings in Python
+- [ ] Strings in Python
 - [ ] Other important Python Data Structures:
   - [ ] Lists
   - [ ] Tuples
@@ -26,4 +26,4 @@ It is covering the following **topics**:
 - [ ] Example Project: A COVID-19 Trend Analysis Data Analysis Tool Built with Python
 
 
----
+-----
