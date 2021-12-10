@@ -26,4 +26,4 @@ It is covering the following **topics**:
 - [ ] Example Project: A COVID-19 Trend Analysis Data Analysis Tool Built with Python
 
 
----
+------
