@@ -15,11 +15,11 @@ It is covering the following **topics**:
 - [x] Functions in Python
 - [x] Modules in Python
 - [x] Strings in Python
-- [ ] Other important Python Data Structures:
-  - [ ] Lists
-  - [ ] Tuples
-  - [ ] Sets
-  - [ ] Dictionaries
+- [x] Other important Python Data Structures:
+  - [x] Lists
+  - [x] Tuples
+  - [x] Sets
+  - [x] Dictionaries
 - [ ] The Numpy Python Data Science Library
 - [ ] The Pandas Python Data Science Library
 - [ ] The Matplotlib Python Data Science Library
