@@ -20,7 +20,7 @@ It is covering the following **topics**:
   - [x] Tuples
   - [x] Sets
   - [x] Dictionaries
-- [ ] The Numpy Python Data Science Library
+- [x] The Numpy Python Data Science Library
 - [ ] The Pandas Python Data Science Library
 - [ ] The Matplotlib Python Data Science Library
 - [ ] Example Project: A COVID-19 Trend Analysis Data Analysis Tool Built with Python
